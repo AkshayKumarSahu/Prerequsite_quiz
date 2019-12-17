@@ -1,0 +1,33 @@
+.rcorners2 {
+    border-radius: 25px;
+    border: 5px solid #B90D15;
+    padding: 20px; 
+    width: auto;
+    height: auto;  
+  }
+ .container button[type="submit"]{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #B90D15;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+.container button[type="submit"]:hover{
+    cursor: pointer;
+    background: #f2f2f2;
+    color: #000;
+}
+
+th .qsbackground{
+    background: #B90D15;
+    color: blanchedalmond;
+}
+
+
+.groov{
+    border-style: groove;
+}
